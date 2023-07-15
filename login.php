@@ -13,7 +13,7 @@
 
 <body class="bg-secondary" style="height:100vh">
     <div class="h-100 d-flex justify-content-center align-items-center">
-        <div class="col-3">
+        <div class="col-7 col-lg-3">
             <div class="card shadow">
                 <div class="card-body">
                     <?php
